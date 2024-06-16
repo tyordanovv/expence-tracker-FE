@@ -1,4 +1,4 @@
-package com.iwwan_01.expensetrackerexpo
+package com.tyordanovv.expensetrackerexpo
 
 import android.app.Application
 import android.content.res.Configuration

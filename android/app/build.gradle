@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.iwwan_01.expensetrackerexpo'
+    namespace 'com.tyordanovv.expensetrackerexpo'
     defaultConfig {
-        applicationId 'com.iwwan_01.expensetrackerexpo'
+        applicationId 'com.tyordanovv.expensetrackerexpo'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

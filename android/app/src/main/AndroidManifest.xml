@@ -25,7 +25,7 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="com.iwwan_01.expensetrackerexpo"/>
+        <data android:scheme="com.tyordanovv.expensetrackerexpo"/>
         <data android:scheme="exp+expense-tracker-expo"/>
       </intent-filter>
     </activity>
